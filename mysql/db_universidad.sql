@@ -7,4 +7,4 @@ CREATE TABLE curso(
 );
 
 INSERT INTO curso(nombre, creditos)
-VALUES ("Matematicas", "4"), ("Programacion Avanzada", "4"), ("Sistemas Operativos", "5");
+VALUES ("Programacion Avanzada", "5"), ("Programacion Web", "5"), ("Matematicas", "4"), ("Sistemas Operativos", "4");
